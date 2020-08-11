@@ -1,0 +1,64 @@
+#main {
+	background-color: #d4e8d9;
+	margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #d4e8d9;
+}
+
+#title {
+	display: flex;
+	justify-content: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 40px;
+}
+
+#title h1 {
+	margin: 35px 0 0 0;
+}
+
+#subtitle p {
+	display: flex;
+	justify-content: center;
+}
+
+#img-div {
+	background-color: #ffffff;
+	padding: 35px 70px;
+	margin: 0;
+}
+
+#image {
+	max-width: 100%;
+	margin: 0 auto;
+	float: none;
+}
+
+p, #image-caption {
+	display: flex;
+	justify-content: center;
+}
+
+#tribute-info {
+	width: 80%;
+	margin: 0 auto;
+}
+
+#tribute-info h2, h3 {
+	display: flex;
+	justify-content: center;
+}
+
+#tribute-info ul {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;	
+}
+
+#year {
+	font-weight: bold;
+}
+
+li {
+	margin-top: 5%;
+}
